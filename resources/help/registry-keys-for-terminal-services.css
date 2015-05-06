@@ -1,0 +1,85 @@
+body,h1,h2,h3,p,quote,small,form,input,ul,li,ol,label{margin:0;padding:0}
+body,h1,h2,h3{font-family:verdana,arial,sans-serif;background:#fff;color:#4B4B4B;font-size:13px}
+img{border:0}
+a{text-decoration:none}
+a:hover{text-decoration:underline}
+#wrapper{margin:0 auto;width:1024px}
+#header{text-align:center}
+#headerimg{text-align:left;padding-top:10px;padding-bottom:10px;float:left}
+#siteSearch{text-align:left;padding-left:10px;padding-top:10px;padding-bottom:10px;float:left}
+#main-menu{text-align:left;float:left;background-color:#86C75F;width:100%}
+#main-menu ul{margin:0;padding:5px}
+#main-menu li{list-style-type:none;display:inline;margin:0 5px 0 5px}
+#main-menu li a{color:#FFF;text-decoration:none}
+#main-menu li a.active{color:#FFF}
+#main-menu a:hover{text-decoration:underline;color:#FFF}
+#breadcrumbs{font-size:9px;color:#4B4B4B;margin:7px 0 7px 0}
+#breadcrumbs a{font-size:9px;color:#4B4B4B}
+#main{border-top:1px solid black;border-bottom:1px solid black;width:100%}
+#main td{vertical-align:top}
+#leftCol{width:200px;border-right:1px solid black;padding:10px 0 10px 0}
+.sideBar{margin-bottom:10px}
+.sideBar h2{background:#86c75f;padding:5px;color:#fff}
+.sideBar a{margin:10px 10px 0 10px;display:block;color:#4B4B4B}
+#rightCol{padding:10px 0 10px 10px}
+#footer{color:#000;padding-top:10px;padding-bottom:10px;text-align:center;line-height:1.5em}
+.docBookTitle,.docPartTitle{font-family:Arial,Helvetica,sans-serif;font-size:x-large;line-height:118%;font-weight:bold}
+.docPrefaceTitle,.docAppendixTitle,.docChapterTitle,.docBibliographyTitle,.docArticleTitle,.docGlossaryTitle{font-family:Arial,Helvetica,sans-serif;font-size:x-large;font-weight:bold}
+.docSidebarTitle{font-family:Arial,Helvetica,sans-serif;font-size:x-large;font-weight:bold}
+.docSection1Title,.docBibliodivTitle,.docBridgehead{font-family:Arial,Helvetica,sans-serif;font-size:large;font-weight:bold;margin-bottom:0}
+.docSection2Title,.docBibliosetTitle{font-family:Arial,Helvetica,sans-serif;font-size:medium;font-weight:bold}
+.docSection3Title,.docSection4Title,.docSection5Title{font-family:Arial,Helvetica,sans-serif;font-weight:bold}
+.docFigureTitle,.docTableTitle,.docExampleTitle,.docTocTitle,.docAbstractTitle,.docQandasetTitle,.docProcTitle,.docRefsectTitle{font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:bold}
+.docText{font-family:Verdana,Arial,Helvetica,sans-serif}
+.docList{font-family:Verdana,Arial,Helvetica,sans-serif}
+.docMonofont{color:#790029;font-family:"Andale Mono","Courier New",Courier,monospace}
+.docTableHeader,.docTableCell{font-family:Verdana,Arial,Helvetica,sans-serif}
+.docTableFooter{font-family:Verdana,Arial,Helvetica,sans-serif}
+.docRefCell{font-family:Verdana,Arial,Helvetica,sans-serif;font-size:medium}
+.docTextHighlight{background-color:#FE9;color:#C00}
+.docFootnote{color:#666}
+.docItemizedlist{font-family:Verdana,Arial,Helvetica,sans-serif}
+.docNote{margin-top:2em;margin-right:2em;margin-bottom:2em;margin-left:2em}
+.docNoteTitle{font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:bold}
+.docNormalTitle,.docTipTitle{font-family:Verdana,Arial,Helvetica,sans-serif;font-weight:bold}
+.docCautionsTitle{font-family:Verdana,Arial,Helvetica,sans-serif;color:#C00;font-weight:bold}
+.docEmphasis{font-style:italic}
+.docEmphBold,.docEmphStrong{font-weight:bold}
+.docEmphGray{color:#999}
+.docEmphMark{background-color:#999}
+.docEmphRev{color:#FFF;background-color:#666}
+.docEmphStrike{text-decoration:line-through}
+.docEmphUl,.docEmphCursor{border-bottom-width:2px;border-bottom-style:solid;border-bottom-color:#000}
+.docEmphBoldItalic{font-style:italic;font-weight:bold}
+.docEmphRoman{font-style:normal;text-decoration:none;text-transform:none;font-weight:normal;font-variant:normal}
+.docEmphSmaller{font-size:smaller}
+.docCaps{text-transform:uppercase}
+.docStructname{font-variant:small-caps}
+pre{color:#790029;font-family:"Andale Mono","Courier New",Courier,monospace}
+tt{color:#790029;font-family:"Andale Mono","Courier New",Courier,monospace}
+div.ob_tree{overflow:auto}
+div.ob_tree a{font-family:verdana,arial,sans-serif;font-size:13px;color:#00f}
+td.ob_t2{font:8pt Tahoma;vertical-align:middle;border:0;background-color:transparent;padding-left:2px;padding-right:2px}
+td.ob_t3{font:8pt Tahoma;vertical-align:middle;border:1px solid #666;background-color:#fff;padding-left:2px;padding-right:2px}
+input.ob_t3{font:8pt Tahoma}
+td.ob_t3 A{color:crimson}
+td.ob_t4{display:none;vertical-align:top}
+div.ob_d4{width:18px;font:6pt Tahoma}
+div.ob_d5{width:15px;vertical-align:top;font:5px Verdana}
+td.ob_t5v{background-image:url(/shared/images/tree/vertical.gif)}
+td.ob_t6{width:16px;vertical-align:top}
+td.ob_t6v{width:16px;vertical-align:top;background-image:url(/shared/images/tree/vertical.gif)}
+td.ob_t8{width:16px;vertical-align:top}
+td.ob_t7{font:8pt Tahoma;background-color:#fff;border:1px solid #666;color:#666;width:80px;text-align:center;padding-left:15px}
+A.ob_a2{font:8pt Tahoma;color:#0000cd;TEXT-DECORATION:none}
+.ob_t2c{border-collapse:separate;border-spacing:0}
+.ob_t2b{border-collapse:separate;border-spacing:0}
+.ob_t2g{border-collapse:separate;border-spacing:0}
+.ob_t2g td{padding:0}
+.ob_t2b td{padding:0}
+.ob_t2c td{padding:0}
+.gad{float:left;padding:10px 10px 0 0}
+#floatMenu{position:absolute;top:150px;left:0}
+#defaultChapterFont p{line-height:1.5em;margin:.4em 0 .5em}
+#defaultChapterFont ul,#defaultChapterFont ol{margin-left:1.5em;padding-left:0}
+#defaultChapterFont li{margin-bottom:.5em}

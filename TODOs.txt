@@ -1,0 +1,14 @@
+Group By Host
+Group By Applications
+
+Common Code Lib for Generator, Feed and Index
+Server Specific Application Icons, Common Application Icons, Generic Icons (Done! I think...)
+Cookie based Checkbox (Next to Help Icon) for checking if server is online... Or Check Server before sending the RDP file ???
+Remote Desktop Offline Icon if server status is checked.
+
+Generator - To generate Single Monitor, Multiple Monitor RDP files
+Generator - To Generate a Remove RemoteApp Regfile
+Generator - To Generate a Icon Extract from EXE, DLL script.
+
+Feed Title Simplification
+Feed Images in Mac Remote Desktop App (Try with PNG It Works but a bit Skewed since it is resized)

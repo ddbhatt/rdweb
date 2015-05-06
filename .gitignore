@@ -1,0 +1,12 @@
+HOLD
+.phpintel
+
+rdp/*
+!rdp/placeholder
+
+icon/apps/*
+!icon/apps/default_online.ico
+!icon/apps/default_offline.ico
+icon/desktops/*
+!icon/desktops/default_online.ico
+!icon/desktops/default_offline.ico
